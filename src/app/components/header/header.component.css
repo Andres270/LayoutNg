@@ -1,4 +1,5 @@
 .home{
+    font-family:cursive;
     background-color: aqua;
     padding: 20px;
     display: flex;
@@ -6,15 +7,18 @@
     align-items: center;
 }
 .title > a {
+    font-family:cursive;
     color: rgb(51, 51, 51);
     text-decoration: none;
 }
 .navbar > a{
+    font-family:cursive;
     color: rgb(51, 51, 51);
     text-decoration: none;
     padding-right: 10px; 
 }
 .navbar > a:hover{
+    font-family:cursive;
     color: rgb(235, 3, 3);
      
 }

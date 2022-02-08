@@ -1,9 +1,17 @@
+.swiper {
+    width: 1000px;
+    height: 580px;
+  }
 img{
-    width: 90%;
+    width: 100%;
 }
 div{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 20px;
+    width: 0px;
+    font-family:cursive;
+
 }
+h2{
+    text-align: center;
+    width: 1600px;    
+}
+
